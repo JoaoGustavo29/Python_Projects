@@ -11,4 +11,6 @@ Here I will be posting some of my projects, simple and complex, in order to show
 
 ## Projects:
 
-* **Calculadora Simples de IMC :**
+* **Programa Para Classificação de Idade:** https://bit.ly/2QOsqBz
+* **Calculadora Simples de IMC:** https://bit.ly/3eew4ha
+* Programa Simples para Verificação de Credenciais:** https://bit.ly/2SoayOo
