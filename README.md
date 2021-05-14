@@ -1,4 +1,7 @@
-# Python_Projects
+<p align="center">
+  <img src="bannerPYTHON.jpeg" >
+</p>
+
 
 # João Gustavo
 <sub>*Computer Science student* at UCB</sub>
